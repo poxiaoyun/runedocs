@@ -35,6 +35,18 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Generate screenshot placeholders
+        run: |
+          # Create a minimal 1x1 transparent PNG as placeholder
+          PLACEHOLDER="iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg=="
+          # Find every /screenshots/... reference in all markdown files and create the file
+          grep -roh '/screenshots/[^"'\''  )>]*\.png' . --include='*.md' 2>/dev/null | sort -u | while read path; do
+            dest="public${path}"
+            mkdir -p "$(dirname "$dest")"
+            echo "$PLACEHOLDER" | base64 -d > "$dest"
+          done
+          echo "Screenshot placeholders created."
+
       - name: Build with VitePress
         env:
           VITEPRESS_BASE: ${{ vars.VITEPRESS_BASE || '/' }}
