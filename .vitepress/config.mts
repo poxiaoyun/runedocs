@@ -358,6 +358,12 @@ export default withMermaid(
     vite: {
       build: {
         assetsInlineLimit: 0,
+        rollupOptions: {
+          // Screenshots are captured separately via Playwright and excluded from git.
+          // Treat any /screenshots/* reference as an external URL so Rollup
+          // does not try to resolve the missing files and fail the build.
+          external: [/\/screenshots\//],
+        },
       },
     },
   })
