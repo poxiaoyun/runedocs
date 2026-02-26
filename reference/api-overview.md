@@ -43,8 +43,8 @@ sequenceDiagram
     participant B as 后端 API
 
     C->>S: 调用 service 函数
-    S-->>C: 返回 Request&lt;T&gt; 配置
-    C->>H: 传入 Request&lt;T&gt;
+    S-->>C: 返回 Request~T~ 配置
+    C->>H: 传入 Request~T~
     H->>A: 发送 HTTP 请求
     A->>A: 注入 Authorization / X-Tenant 等 Header
     A->>B: HTTP 请求

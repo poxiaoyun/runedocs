@@ -43,8 +43,8 @@ sequenceDiagram
     participant B as Backend API
 
     C->>S: Call service function
-    S-->>C: Return Request&lt;T&gt; config
-    C->>H: Pass in Request&lt;T&gt;
+    S-->>C: Return Request~T~ config
+    C->>H: Pass in Request~T~
     H->>A: Send HTTP request
     A->>A: Inject Authorization / X-Tenant and other Headers
     A->>B: HTTP request
