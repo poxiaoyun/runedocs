@@ -16,7 +16,7 @@ Path: `/boss/rune/tenants`
 
 ## Tenant List
 
-![Tenant Resource List](/screenshots/boss/rune-tenants-list.png)
+![Tenant Resource List](/screenshots/boss/rune-tenants.png)
 
 The tenant list adds a TenantQuota column (width 600px) on top of the standard IAM tenant list to display each tenant's resource quota overview.
 

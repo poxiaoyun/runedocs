@@ -14,7 +14,7 @@ Rune Console uses a unified authentication system — Console (user portal) and 
 
 ## Page Description
 
-![Login Page](/screenshots/console/login.png)
+![Login Page](/screenshots/console/auth-login.png)
 
 The login page defaults to a two-column layout: the left side is the brand display area, and the right side is the login form. On mobile devices, the page automatically switches to a single-column layout showing only the login form.
 

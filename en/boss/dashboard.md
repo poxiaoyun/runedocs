@@ -12,7 +12,7 @@ Path: `/boss/dashboard`
 
 ## Page Layout
 
-![BOSS Dashboard](/screenshots/boss/dashboard-overview.png)
+![BOSS Dashboard](/screenshots/boss/dashboard.png)
 
 The dashboard uses a responsive grid layout with three cards distributed by column width:
 

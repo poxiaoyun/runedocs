@@ -19,7 +19,7 @@ Rune Workbench → Left Navigation → **App Market**
 
 ## Browse Templates
 
-![App Market](/screenshots/console/app-market.png)
+![App Market](/screenshots/console/rune-app-market.png)
 
 The App Market uses the **ProductListView** component for display, providing an intuitive template browsing experience.
 

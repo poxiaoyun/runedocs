@@ -38,7 +38,7 @@ Rune Workbench → Left Navigation → **Fine-tuning Services**
 
 ## Fine-tuning Service List
 
-![Fine-tuning Service List](/screenshots/console/finetune-list.png)
+![Fine-tuning Service List](/screenshots/console/rune-finetune-list.png)
 
 The list page displays all fine-tuning task instances in the current workspace.
 

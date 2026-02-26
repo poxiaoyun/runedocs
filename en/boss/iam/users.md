@@ -12,7 +12,7 @@ Path: `/boss/iam/users`
 
 ## User List
 
-![User Management List](/screenshots/boss/iam-users-list.png)
+![User Management List](/screenshots/boss/iam-users.png)
 
 The user list displays all platform users in a table format, supporting keyword search and pagination.
 

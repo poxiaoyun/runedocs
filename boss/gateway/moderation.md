@@ -54,7 +54,7 @@ flowchart TD
 
 ### 策略列表
 
-![审查策略列表](/screenshots/boss/gateway-moderation-policies.png)
+![审查策略列表](/screenshots/boss/gateway-moderation.png)
 
 | 列 | 说明 | 备注 |
 |----|------|------|

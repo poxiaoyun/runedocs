@@ -29,7 +29,7 @@ stateDiagram-v2
 
 ## Tenant List
 
-![Tenant Management List](/screenshots/boss/iam-tenants-list.png)
+![Tenant Management List](/screenshots/boss/iam-tenants.png)
 
 The tenant list displays summary information for all tenants on the platform in a table format.
 

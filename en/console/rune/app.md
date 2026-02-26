@@ -52,7 +52,7 @@ Rune Workbench → Left Navigation → **Applications**
 
 ## Application List
 
-![Application List](/screenshots/console/app-list.png)
+![Application List](/screenshots/console/rune-app-list.png)
 
 The list page displays all application instances in the current workspace, providing quick overview and operation entry points.
 

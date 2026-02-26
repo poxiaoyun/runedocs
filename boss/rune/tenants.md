@@ -16,7 +16,7 @@ BOSS → Rune → **租户资源**
 
 ## 租户列表
 
-![租户资源列表](/screenshots/boss/rune-tenants-list.png)
+![租户资源列表](/screenshots/boss/rune-tenants.png)
 
 租户列表在标准 IAM 租户列表基础上额外增加了 TenantQuota 列（宽度 600px），展示各租户的资源配额概况。
 

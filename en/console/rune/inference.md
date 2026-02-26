@@ -22,7 +22,7 @@ Rune Workbench → Left Navigation → **Inference Services**
 
 ## Inference Service List
 
-![Inference Service List](/screenshots/console/inference-list.png)
+![Inference Service List](/screenshots/console/rune-inference-list.png)
 
 The list page displays all inference service instances in the current workspace, providing quick overview and operation entry points.
 
@@ -70,7 +70,7 @@ Instance status is displayed with different colored badges for quick identificat
 3. Fill in basic information and template parameters
 4. Confirm resource specifications and submit
 
-![Create Inference Service](/screenshots/console/inference-create.png)
+![Create Inference Service](/screenshots/console/rune-inference-create.png)
 
 ### Step 1: Fill in Basic Information
 

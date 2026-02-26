@@ -33,7 +33,7 @@ Rune 工作台 → 左侧导航 → **评测**
 
 ## 评测任务列表
 
-![评测任务列表](/screenshots/console/evaluation-list.png)
+![评测任务列表](/screenshots/console/rune-evaluation-list.png)
 
 列表页展示当前工作空间下所有评测任务实例，提供快速概览和操作入口。
 

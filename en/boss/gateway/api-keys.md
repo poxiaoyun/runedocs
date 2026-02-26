@@ -16,7 +16,7 @@ Path: `/boss/tokens`
 
 ## API Key List
 
-![API Key List](/screenshots/boss/gateway-apikeys-list.png)
+![API Key List](/screenshots/boss/gateway-api-keys.png)
 
 | Column | Field | Description | Notes |
 |--------|-------|-------------|-------|

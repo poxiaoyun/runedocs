@@ -50,7 +50,7 @@ Path: `/rune/tenants/:tenant/clusters/:cluster/workspaces`
 
 ## Workspace List
 
-![Workspace List](/screenshots/console/workspace-list.png)
+![Workspace List](/screenshots/console/rune-workspaces.png)
 
 The list page displays all workspaces for the current tenant in the specified cluster, providing overview and management entry points.
 

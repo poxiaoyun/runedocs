@@ -26,7 +26,7 @@ BOSS → 集群详情 → **规格**
 
 ## 规格列表
 
-![规格管理列表](/screenshots/boss/rune-flavors-list.png)
+![规格管理列表](/screenshots/boss/rune-flavors.png)
 
 规格列表以表格形式展示当前集群中所有已创建的规格。
 

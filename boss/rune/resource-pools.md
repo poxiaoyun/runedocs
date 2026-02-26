@@ -58,7 +58,7 @@ graph TB
 
 ## 资源池列表
 
-![资源池管理列表](/screenshots/boss/rune-resource-pools-list.png)
+![资源池管理列表](/screenshots/boss/rune-resource-pools.png)
 
 资源池列表以表格形式展示当前集群中所有已创建的资源池。
 

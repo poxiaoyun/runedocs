@@ -53,7 +53,7 @@ flowchart LR
 
 ## 审计记录列表
 
-![审计日志列表](/screenshots/boss/gateway-audit-list.png)
+![审计日志列表](/screenshots/boss/gateway-audit.png)
 
 | 列 | 字段名 | 说明 | 备注 |
 |----|--------|------|------|

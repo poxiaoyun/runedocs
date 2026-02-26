@@ -50,7 +50,7 @@ Rune 工作台 → 工作空间管理（通过 URL 直接访问）
 
 ## 工作空间列表
 
-![工作空间列表](/screenshots/console/workspace-list.png)
+![工作空间列表](/screenshots/console/rune-workspaces.png)
 
 列表页展示当前租户在指定集群下的所有工作空间，提供概览和管理入口。
 

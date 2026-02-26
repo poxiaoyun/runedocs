@@ -12,7 +12,7 @@ BOSS → 账户中心 → **用户管理**
 
 ## 用户列表
 
-![用户管理列表](/screenshots/boss/iam-users-list.png)
+![用户管理列表](/screenshots/boss/iam-users.png)
 
 用户列表以表格形式展示平台所有用户，支持按关键词搜索和分页浏览。
 

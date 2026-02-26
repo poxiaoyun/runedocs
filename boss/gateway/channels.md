@@ -37,7 +37,7 @@ flowchart LR
 
 ## 渠道列表
 
-![渠道列表](/screenshots/boss/gateway-channels-list.png)
+![渠道列表](/screenshots/boss/gateway-channels.png)
 
 | 列 | 字段 | 说明 | 备注 |
 |----|------|------|------|

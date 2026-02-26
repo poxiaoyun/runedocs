@@ -26,7 +26,7 @@ Path: `/boss/rune/clusters/:cluster/flavors`
 
 ## Flavor List
 
-![Flavor Management List](/screenshots/boss/rune-flavors-list.png)
+![Flavor Management List](/screenshots/boss/rune-flavors.png)
 
 The flavor list displays all created flavors in the current cluster in table format.
 

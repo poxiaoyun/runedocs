@@ -48,7 +48,7 @@ graph TB
 
 ## 系统实例列表
 
-![系统实例列表](/screenshots/boss/rune-systems-list.png)
+![系统实例列表](/screenshots/boss/rune-systems.png)
 
 系统实例列表使用 `InstanceListView` 组件渲染，固定 `category='system'` 过滤，仅展示系统级别的实例。
 

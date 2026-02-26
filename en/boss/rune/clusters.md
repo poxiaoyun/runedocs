@@ -56,7 +56,7 @@ graph TB
 
 ## Cluster List
 
-![Cluster Management List](/screenshots/boss/rune-clusters-list.png)
+![Cluster Management List](/screenshots/boss/rune-clusters.png)
 
 The cluster list displays all connected Kubernetes clusters in a table format.
 

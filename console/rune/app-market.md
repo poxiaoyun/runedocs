@@ -19,7 +19,7 @@ Rune 工作台 → 左侧导航 → **应用市场**
 
 ## 浏览模板
 
-![应用市场](/screenshots/console/app-market.png)
+![应用市场](/screenshots/console/rune-app-market.png)
 
 应用市场采用 **ProductListView** 组件展示，提供直观的模板浏览体验。
 

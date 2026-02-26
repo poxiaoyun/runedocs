@@ -38,7 +38,7 @@ Rune 工作台 → 左侧导航 → **微调服务**
 
 ## 微调服务列表
 
-![微调服务列表](/screenshots/console/finetune-list.png)
+![微调服务列表](/screenshots/console/rune-finetune-list.png)
 
 列表页展示当前工作空间下所有微调任务实例。
 

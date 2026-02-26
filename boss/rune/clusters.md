@@ -56,7 +56,7 @@ graph TB
 
 ## 集群列表
 
-![集群管理列表](/screenshots/boss/rune-clusters-list.png)
+![集群管理列表](/screenshots/boss/rune-clusters.png)
 
 集群列表以表格形式展示所有已接入的 Kubernetes 集群。
 

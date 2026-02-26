@@ -55,7 +55,7 @@ Rune Workbench → Left Navigation → **Storage Volumes**
 
 ## Storage Volume List
 
-![Storage Volume List](/screenshots/console/storage-list.png)
+![Storage Volume List](/screenshots/console/rune-storage-list.png)
 
 The list page displays all storage volumes in the current workspace, providing quick overview and management entry points.
 

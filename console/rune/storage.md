@@ -55,7 +55,7 @@ Rune 工作台 → 左侧导航 → **存储卷**
 
 ## 存储卷列表
 
-![存储卷列表](/screenshots/console/storage-list.png)
+![存储卷列表](/screenshots/console/rune-storage-list.png)
 
 列表页展示当前工作空间下所有存储卷，提供快速概览和管理入口。
 

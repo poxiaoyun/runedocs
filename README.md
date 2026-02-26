@@ -56,9 +56,11 @@ docs/
 │   │   └── favicon.svg
 │   ├── assets/
 │   │   └── background/        # 背景图片资源
-│   └── screenshots/           # 截图文件（271 张占位图）
+│   └── screenshots/           # 截图文件
 ├── scripts/
-│   └── capture-screenshots.mjs  # Playwright 自动截图脚本
+│   ├── capture-screenshots.spec.ts  # Playwright 自动截图用例
+│   ├── playwright.config.ts         # Playwright 配置
+│   └── check-screenshot-links.mjs   # 截图引用一致性校验脚本
 ├── guide/                     # 📖 入门指南（4篇）
 │   ├── introduction.md
 │   ├── quick-start.md
@@ -166,18 +168,31 @@ title: 页面标题
 截图存放在 `public/screenshots/` 目录下，在文档中引用：
 
 ```markdown
-![功能截图](/screenshots/console-dashboard.png)
+![功能截图](/screenshots/console/dashboard.png)
 ```
 
 自动截图脚本（需要先启动开发服务器）：
 
 ```bash
-# 安装 Playwright 浏览器
-npx playwright install chromium
+# Linux 环境首次执行（安装浏览器 + 系统依赖）
+npx playwright install --with-deps chromium
 
 # 执行截图
 npm run screenshot
+
+# 校验“文档引用名”与“脚本生成名”
+npm run check:screenshots
 ```
+
+说明：
+
+- `npm run screenshot` 当前会生成 44 张截图，输出到：
+  - `public/screenshots/console/`
+  - `public/screenshots/boss/`
+- `npm run check:screenshots` 会输出三类统计：
+  - 脚本生成但文档未引用
+  - 文档（扁平路径 `/screenshots/console|boss/*.png`）引用但脚本未生成
+  - 文档全部截图引用与脚本产物的差异统计（用于盘点）
 
 ## 主题与样式
 

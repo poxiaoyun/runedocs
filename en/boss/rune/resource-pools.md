@@ -58,7 +58,7 @@ graph TB
 
 ## Resource Pool List
 
-![Resource Pool Management List](/screenshots/boss/rune-resource-pools-list.png)
+![Resource Pool Management List](/screenshots/boss/rune-resource-pools.png)
 
 The resource pool list displays all created resource pools in the current cluster in table format.
 

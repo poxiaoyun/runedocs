@@ -34,7 +34,7 @@ Rune Workbench → Left Navigation → **Experiments**
 
 ## Experiment Service List
 
-![Experiment Service List](/screenshots/console/experiment-list.png)
+![Experiment Service List](/screenshots/console/rune-experiment-list.png)
 
 The list page displays all experiment tracking service instances in the current workspace, providing quick overview and operation entry points.
 

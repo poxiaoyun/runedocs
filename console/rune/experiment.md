@@ -34,7 +34,7 @@ Rune 工作台 → 左侧导航 → **实验**
 
 ## 实验服务列表
 
-![实验服务列表](/screenshots/console/experiment-list.png)
+![实验服务列表](/screenshots/console/rune-experiment-list.png)
 
 列表页展示当前工作空间下所有实验跟踪服务实例，提供快速概览和操作入口。
 

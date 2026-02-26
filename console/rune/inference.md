@@ -22,7 +22,7 @@ Rune 工作台 → 左侧导航 → **推理服务**
 
 ## 推理服务列表
 
-![推理服务列表](/screenshots/console/inference-list.png)
+![推理服务列表](/screenshots/console/rune-inference-list.png)
 
 列表页展示当前工作空间下所有推理服务实例，提供快速概览和操作入口。
 
@@ -70,7 +70,7 @@ Rune 工作台 → 左侧导航 → **推理服务**
 3. 填写基本信息和模板参数
 4. 确认资源规格后提交
 
-![创建推理服务](/screenshots/console/inference-create.png)
+![创建推理服务](/screenshots/console/rune-inference-create.png)
 
 ### 步骤一：填写基本信息
 

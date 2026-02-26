@@ -19,7 +19,7 @@ IAM API Key 是平台级的**访问密钥对**，由 **AccessKey（AK）** 和 *
 
 ## 页面概览
 
-![API Key 管理页面](/screenshots/console/iam-api-key.png)
+![API Key 管理页面](/screenshots/console/iam-api-keys.png)
 
 ---
 

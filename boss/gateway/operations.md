@@ -58,7 +58,7 @@ flowchart LR
 
 页面顶部以指标卡片形式展示三个核心汇总指标：
 
-![汇总指标](/screenshots/boss/gateway-ops-summary.png)
+![汇总指标](/screenshots/boss/gateway-operations.png)
 
 | 指标 | 字段名 | 说明 | 展示形式 |
 |------|--------|------|---------|

@@ -22,7 +22,7 @@ Rune Workbench → Left Navigation → **Dev Environments**
 
 ## Dev Environment List
 
-![Dev Environment List](/screenshots/console/devenv-list.png)
+![Dev Environment List](/screenshots/console/rune-devenv-list.png)
 
 The list page displays all dev environment instances in the current workspace.
 

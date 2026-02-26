@@ -58,7 +58,7 @@ The top of the page provides multi-dimensional filters supporting flexible combi
 
 The top of the page displays three core summary metrics in card format:
 
-![Summary Metrics](/screenshots/boss/gateway-ops-summary.png)
+![Summary Metrics](/screenshots/boss/gateway-operations.png)
 
 | Metric | Field Name | Description | Display Format |
 |--------|-----------|-------------|----------------|

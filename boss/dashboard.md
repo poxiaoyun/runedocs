@@ -12,7 +12,7 @@ BOSS → 首页 / 仪表盘
 
 ## 页面布局
 
-![BOSS 仪表盘](/screenshots/boss/dashboard-overview.png)
+![BOSS 仪表盘](/screenshots/boss/dashboard.png)
 
 仪表盘采用响应式网格布局，三张卡片按列宽分布：
 

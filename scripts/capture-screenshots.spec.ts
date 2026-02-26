@@ -15,10 +15,14 @@
 import { test, Page } from '@playwright/test';
 import * as fs from 'fs';
 import * as path from 'path';
+import { fileURLToPath } from 'url';
 
 const BASE_URL = 'https://rune.develop.xiaoshiai.cn';
 const USERNAME = 'admin';
 const PASSWORD = 'password';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const CONSOLE_SCREENSHOTS_DIR = path.resolve(__dirname, '../public/screenshots/console');
 const BOSS_SCREENSHOTS_DIR = path.resolve(__dirname, '../public/screenshots/boss');

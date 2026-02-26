@@ -37,7 +37,7 @@ flowchart LR
 
 ## Channel List
 
-![Channel List](/screenshots/boss/gateway-channels-list.png)
+![Channel List](/screenshots/boss/gateway-channels.png)
 
 | Column | Field | Description | Notes |
 |--------|-------|-------------|-------|

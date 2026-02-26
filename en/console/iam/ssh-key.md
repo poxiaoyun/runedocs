@@ -10,7 +10,7 @@ SSH Keys are used to authenticate Git-over-SSH access to Moha repositories. Addi
 
 ## Key List
 
-![SSH Keys](/screenshots/console/iam-sshkeys.png)
+![SSH Keys](/screenshots/console/iam-ssh-keys.png)
 
 | Column | Description |
 |--------|-------------|

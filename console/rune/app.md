@@ -52,7 +52,7 @@ Rune 工作台 → 左侧导航 → **应用**
 
 ## 应用列表
 
-![应用列表](/screenshots/console/app-list.png)
+![应用列表](/screenshots/console/rune-app-list.png)
 
 列表页展示当前工作空间下所有应用实例，提供快速概览和操作入口。
 

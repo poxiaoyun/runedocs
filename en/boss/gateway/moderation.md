@@ -54,7 +54,7 @@ Moderation policies define the complete rule chain of **what content, at what se
 
 ### Policy List
 
-![Moderation Policy List](/screenshots/boss/gateway-moderation-policies.png)
+![Moderation Policy List](/screenshots/boss/gateway-moderation.png)
 
 | Column | Description | Notes |
 |--------|-------------|-------|

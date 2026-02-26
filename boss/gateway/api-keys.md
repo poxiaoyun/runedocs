@@ -16,7 +16,7 @@ BOSS → LLM 网关 → **API Key**
 
 ## API Key 列表
 
-![API Key 列表](/screenshots/boss/gateway-apikeys-list.png)
+![API Key 列表](/screenshots/boss/gateway-api-keys.png)
 
 | 列 | 字段 | 说明 | 备注 |
 |----|------|------|------|

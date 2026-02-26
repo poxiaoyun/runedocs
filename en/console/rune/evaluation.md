@@ -33,7 +33,7 @@ Rune Workbench → Left Navigation → **Evaluations**
 
 ## Evaluation Task List
 
-![Evaluation Task List](/screenshots/console/evaluation-list.png)
+![Evaluation Task List](/screenshots/console/rune-evaluation-list.png)
 
 The list page displays all evaluation task instances in the current workspace, providing quick overview and operation entry points.
 

@@ -53,7 +53,7 @@ The top of the page provides multi-dimensional filters for precisely locating ta
 
 ## Audit Record List
 
-![Audit Log List](/screenshots/boss/gateway-audit-list.png)
+![Audit Log List](/screenshots/boss/gateway-audit.png)
 
 | Column | Field Name | Description | Notes |
 |--------|-----------|-------------|-------|

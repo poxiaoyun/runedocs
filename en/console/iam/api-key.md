@@ -10,7 +10,7 @@ API Keys in the IAM section are personal credentials scoped to the platform APIs
 
 ## Key List
 
-![API Keys](/screenshots/console/iam-apikeys.png)
+![API Keys](/screenshots/console/iam-api-keys.png)
 
 | Column | Description |
 |--------|-------------|

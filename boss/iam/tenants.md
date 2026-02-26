@@ -29,7 +29,7 @@ stateDiagram-v2
 
 ## 租户列表
 
-![租户管理列表](/screenshots/boss/iam-tenants-list.png)
+![租户管理列表](/screenshots/boss/iam-tenants.png)
 
 租户列表以表格形式展示平台中所有租户的概要信息。
 

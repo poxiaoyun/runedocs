@@ -22,7 +22,7 @@ Rune 工作台 → 左侧导航 → **开发环境**
 
 ## 开发环境列表
 
-![开发环境列表](/screenshots/console/devenv-list.png)
+![开发环境列表](/screenshots/console/rune-devenv-list.png)
 
 列表页展示当前工作空间下所有开发环境实例。
 

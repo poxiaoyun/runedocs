@@ -8,7 +8,8 @@
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview",
-    "screenshot": "npx playwright test scripts/capture-screenshots.spec.ts --config=scripts/playwright.config.ts"
+    "screenshot": "npx playwright test scripts/capture-screenshots.spec.ts --config=scripts/playwright.config.ts",
+    "check:screenshots": "node scripts/check-screenshot-links.mjs"
   },
   "devDependencies": {
     "vitepress": "^1.6.3",

@@ -48,7 +48,7 @@ graph TB
 
 ## System Instance List
 
-![System Instance List](/screenshots/boss/rune-systems-list.png)
+![System Instance List](/screenshots/boss/rune-systems.png)
 
 The system instance list is rendered using the `InstanceListView` component with a fixed `category='system'` filter, displaying only system-level instances.
 
